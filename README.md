@@ -1,7 +1,7 @@
 | [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
 |---|---|
 <p align="center">
-  <img width="300" height="auto" align="center" alt="logo" src="https://github.com/user-attachments/assets/c0500902-df29-4cac-8a30-86779dc8bcab" />
+  <img width="100" height="auto" align="center" alt="logo" src="https://github.com/user-attachments/assets/c0500902-df29-4cac-8a30-86779dc8bcab" />
 </p>
 
 # Câmbio Fácil - Currency Converter
