@@ -1,4 +1,4 @@
-| [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
+| [Português 🇧🇷](README.md) | [English 🇺🇸](README-en.md) |
 |---|---|
 <p align="center">
   <img width="100" height="auto" align="center" alt="logo" src="https://github.com/user-attachments/assets/c0500902-df29-4cac-8a30-86779dc8bcab" />
